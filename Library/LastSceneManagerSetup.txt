@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_TouchScreenControl/Scenes/01_setup.unity
+  isLoaded: 1
+  isActive: 1
